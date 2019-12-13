@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://ilpiatto.com.br/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://ilpiatto.com.br/assets/picol/demo.html</loc>
+<loc>http://localhost:4000/assets/picol/demo.html</loc>
 <lastmod>2017-11-29T06:46:24-03:00</lastmod>
 </url>
 </urlset>
