@@ -1,0 +1,29 @@
+title: Il Piatto
+author: Il Piatto
+url: "https://ilpiatto.com.br"
+description: 
+
+defaults:
+#defaults para os posts
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Il Piatto"
+      permalink: "/:categories/:day/:month/:year/:title"
+#defaults para todo o resto
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+
+# para o SEO tag:
+lang: pt_BR
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
